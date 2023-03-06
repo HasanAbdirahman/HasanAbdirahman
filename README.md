@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React Native, Redux**
 
-- 👨‍💻 All of my projects are available at [https://hasan-abdirahman-dev.netlify.app/](https://hasan-abdirahman-dev.netlify.app/)
+- 👨‍💻 My portfolio is available [here](https://hasan-abdirahman-dev.netlify.app/). Please take a look.
 
 - 💬 Ask me about **HTML, CSS, JS, Express, MongoDB**
 
-- 📫 How to reach me **hasanabdirahman.ao@gmail.com**
+- 📫 How to reach me? Please reach at **hasanabdirahman.ao@gmail.com**
 
-- ⚡ Fun fact **I love watching soccer and I speak 4 languages**
+- ⚡ Fun fact **I love watching soccer and I speak 4 languages. Guess which languages?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
