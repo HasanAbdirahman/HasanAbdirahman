@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Hasan Abdirahman</h1>
-<h3 align="center">A passionate software developer and I am based in Toronto, Canada</h3>
+<h3 align="center">A passionate cloud engineer, solution architect and software developer. I am based in Toronto Ontario, Canada</h3>
 <img align="right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanabdirahman&label=Profile%20views&color=0e75b6&style=flat" alt="hasanabdirahman" /> </p>
 
-- 🔭 I’m currently working on **Full MERN stack ecommerce**
+- 🔭 I’m currently working on **Terraform**
 
-- 🌱 I’m currently learning **React Native, Redux**
+- 🌱 I’m currently learning **Dockers, Kurbenetes**
 
 - 👨‍💻 Please check out my portfolio [here](https://hasan-abdirahman-dev.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, Express, MongoDB, Terraform, AWS, Cloud Engineering**
 
 - 📫 How to reach me **hasanabdirahman.ao@gmail.com**
 
