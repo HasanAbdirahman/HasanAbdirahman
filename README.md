@@ -12,7 +12,7 @@
 
 - 👨‍💻 Please check out my portfolio [here](https://hasan-abdirahman-dev.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JS, Express, MongoDB, Terraform, AWS, Cloud Engineering**
+- 💬 Ask me about **HTML, CSS, JS, Express, MongoDB, Terraform, AWS, GitHub Actions, Cloud Engineering**
 
 - 📫 How to reach me **hasanabdirahman.ao@gmail.com**
 
